@@ -34,3 +34,4 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+print("Programa realizado por Ramirez Azul NC 0441")
